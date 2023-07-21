@@ -56,3 +56,12 @@ network block:
 
 Here you can find related schema types and definitions and representation in state:
 https://developer.hashicorp.com/terraform/plugin/sdkv2/schemas/schema-types
+
+Cty.value consists of:
+- Ty - type
+- v - value
+
+![image](https://github.com/dekkart/terraform-docs/assets/5804785/7349d689-f52d-48a8-b879-44e0a9977dd9)
+
+In response v variable is filled with values where is applicable. 
+
